@@ -1,2 +1,11 @@
-# pixel_art_maker
-Udacity project for pixel_art_maker
+# Pixel Art Maker Project
+
+
+
+## Instructions
+
+To get started, select the height, width & color
+
+Click on the canvas grids to make your art!
+
+
